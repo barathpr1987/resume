@@ -71,7 +71,7 @@ Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
     [PHP] Automated Unit Test using PHPUnit. Code coverage utilities and various 
     other reports.
     
-    [Ansible] Ansible script to manage 700+ servers created using Open Nebula and KVM.
+    [Ansible] Ansible scripts to manage 700+ servers created using Open Nebula and KVM.
 
 --------------------------------------------------------------------------------
 
