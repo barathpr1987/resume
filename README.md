@@ -17,6 +17,15 @@ Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
 
 [SKILLS]
 
++ MMI/Web Services
+
+    [REST] REST based architecture to support Machine to Machine Interface.
+    
+    [SOAP] Developed C++/GSOAP based secure SOAP server.
+
+    [PHP/Zend] Developed PHP/Zend based secure SOAP client and secure SOAP
+    server.  Inherited/added to the Zend based SOAP client and server.
+    
 + GUI Design/Development
 
     [PHP/Zend] Developed GUI framework using Zend Model View Controller
@@ -38,15 +47,6 @@ Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
 
     [OAM] Developed GUI for different Managed Objects in the products.  Managed
     Object helped customer to conceptualize the product.
-
-+ MMI/Web Services
-
-    [REST] REST based architecture to support Machine to Machine Interface.
-    
-    [SOAP] Developed C++/GSOAP based secure SOAP server.
-
-    [PHP/Zend] Developed PHP/Zend based secure SOAP client and secure SOAP
-    server.  Inherited/added to the Zend based SOAP client and server.
 
 + Security
 
@@ -79,8 +79,9 @@ Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
 
 Jan 2010 - present: Aricent, Gurgaon/USA
     Unix based PHP and Telecom OAM development for a new product.  Developed
-    GUI for LTE/4G protocol project.  Worked on PHPUnit and PHP CLI.  Worked on
-    Python based test cases automation.
+    GUI and Machine to Machine Interface for LTE/4G protocol project.  Implemented 
+    REST based Machine to Machine Interface. Worked on PHPUnit and PHP CLI. Worked 
+    on Python based test cases automation. 
 
 Dec 2005 - Dec 2009: Aricent, Gurgaon/USA
     Unix based PHP and C++ GUI/EMS framework.  Linux/Apache/MySQL/PHP (LAMP)
