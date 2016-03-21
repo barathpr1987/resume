@@ -105,6 +105,7 @@ Aug 2003 - Dec 2005: Infosys, Bangalore
 
 [PERSONAL DETAILS]
 
+|Label         | Value          |
 |--------------|----------------|
 |Date of birth | 18 Jan 1981    |
 |Marital Status| Married        |
