@@ -105,9 +105,11 @@ Aug 2003 - Dec 2005: Infosys, Bangalore
 
 [PERSONAL DETAILS]
 
-Date of birth  : 18 Jan 1981
-Marital Status : Married
-Languages      : English, Hindi
-Passport #     : Z2796975
+|              |                |
+|--------------|----------------|
+|Date of birth | 18 Jan 1981    |
+|Marital Status| Married        |
+|Languages     | English, Hindi |
+|Passport #    | Z2796975       |
 
 --------------------------------------------------------------------------------
