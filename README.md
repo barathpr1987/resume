@@ -91,6 +91,7 @@ Aug 2003 - Dec 2005: Infosys, Bangalore
 [EDUCATION]
 
 |Exam | Institute   | University                | Year of Passing | Marks (%) |
+|-----|-------------|---------------------------|-----------------|-----------|
 |B.E  | A.E.C, Agra | Dr.B.R.A University, Agra | 2003            | 80        |
 |XII  | Dr.V.S.E.C  | U.P. Board                | 1998            | 73        |
 |X    | Dr.V.S.E.C  | U.P. Board                | 1996            | 70        |
