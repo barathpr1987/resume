@@ -39,8 +39,10 @@ Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
     [OAM] Developed GUI for different Managed Objects in the products.  Managed
     Object helped customer to conceptualize the product.
 
-+ Web Services
++ MMI/Web Services
 
+    [REST] REST based architecture to support Machine to Machine Interface.
+    
     [SOAP] Developed C++/GSOAP based secure SOAP server.
 
     [PHP/Zend] Developed PHP/Zend based secure SOAP client and secure SOAP
@@ -66,7 +68,10 @@ Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
 
     [Python] Developed automated test suite for network based application.
 
-    [PHP] Automated PHP AUT using PHPUnit.
+    [PHP] Automated Unit Test using PHPUnit. Code coverage utilities and various 
+    other reports.
+    
+    [Ansible] Ansible script to manage 700+ servers created using Open Nebula and KVM.
 
 --------------------------------------------------------------------------------
 
