@@ -8,7 +8,7 @@ PHP/C++ GUI developer and Telecom OAM/EMS engineer.  Expert in PHP and C++.
 Comfortable with HTML/CSS, Javascript/Dojo, Zend, Linux, Shell Scripting, SOAP,
 MySQL, Python and Linux.  Familiar with Perl, Windows Power Shell, Lisp
 (Scheme), XML/XSLT and multiple Linux tools.  Interested in GUI design,
-automation, OAM and programming.  Total experience of 10+ years.
+automation, OAM and programming.  Total experience of 12+ years.
 
 Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
 	  Javascript, CSS, Zend/Dojo, git, MVC
