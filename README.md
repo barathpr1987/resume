@@ -11,7 +11,7 @@ MySQL, Python and Linux.  Familiar with Perl, Windows Power Shell, Lisp
 automation, OAM and programming.  Total experience of 12+ years.
 
 Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
-Javascript, CSS, Zend/Dojo, git, MVC
+Javascript, CSS, Zend/Dojo, git, MVC, Laravel
 
 --------------------------------------------------------------------------------
 
@@ -19,7 +19,8 @@ Javascript, CSS, Zend/Dojo, git, MVC
 
 + MMI/Web Services
 
-    [REST] REST based architecture to support Machine to Machine Interface.
+    [REST] Developed REST based architecture to support Machine to Machine
+    Interface (MMI)
     
     [SOAP] Developed C++/GSOAP based secure SOAP server.
 
@@ -78,20 +79,29 @@ Javascript, CSS, Zend/Dojo, git, MVC
 
 [EXPERIENCE SUMMARY]
 
-Jan 2010 - present: Aricent, Gurgaon/USA
+Jan, 2010 - present: Aricent, Gurgaon/USA
     Unix based PHP and Telecom OAM development for a new product.  Developed
     GUI and Machine to Machine Interface for LTE/4G protocol project.
     Implemented REST based Machine to Machine Interface. Worked on PHPUnit and
     PHP CLI. Worked on Python based test cases automation. 
 
-Dec 2005 - Dec 2009: Aricent, Gurgaon/USA
+Dec, 2005 - Dec, 2009: Aricent, Gurgaon/USA
     Unix based PHP and C++ GUI/EMS framework.  Linux/Apache/MySQL/PHP (LAMP)
     development with Zend/Dojo and C++ based SOAP server backend.
 
-Aug 2003 - Dec 2005: Infosys, Bangalore
+Aug, 2003 - Dec, 2005: Infosys, Bangalore
     Windows based C++ development.  Worked on database layers, web services,
     ASP pages for a soft switch.  Solved challenging problem like memory leaks,
     logging performance enhancement and real time customer issues.
+
+--------------------------------------------------------------------------------
+
+[EMPLOYEMENT SUMMARY]
+
+| Start Date | End Date  | Employer | Designation        | 
+|------------|-----------|----------|--------------------|
+| Dec, 2005  | Present   | Aricent  | Software Developer | 
+| Aug, 2003  | Dec, 2005 | Infosys  | Software Developer | 
 
 --------------------------------------------------------------------------------
 
@@ -107,11 +117,9 @@ Aug 2003 - Dec 2005: Infosys, Bangalore
 
 [PERSONAL DETAILS]
 
-|Label         | Value          |
-|--------------|----------------|
-|Date of birth | 18 Jan 1981    |
-|Marital Status| Married        |
-|Languages     | English, Hindi |
-|Passport #    | Z2796975       |
+Date of birth : 18 Jan 1981    
+Marital Status: Married        
+Languages     : English, Hindi 
+Passport #    : Z2796975       
 
 --------------------------------------------------------------------------------
