@@ -14,109 +14,94 @@ Javascript, CSS, Zend/Dojo, git, MVC, Laravel
 
 # Skills
 
-+ MMI/Web Services
+## MMI/Web Services
 
-    [REST] Developed REST based architecture to support Machine to Machine
-    Interface (MMI)
+[REST] Developed REST based architecture to support Machine to Machine
+Interface (MMI)
+
+[SOAP] Developed C++/GSOAP based secure SOAP server.
+
+[PHP] Developed PHP/Zend based secure SOAP client and secure SOAP server.
+Inherited/added to the Zend based SOAP client and server.
     
-    [SOAP] Developed C++/GSOAP based secure SOAP server.
+## GUI Design/Development
 
-    [PHP] Developed PHP/Zend based secure SOAP client and secure SOAP
-    server.  Inherited/added to the Zend based SOAP client and server.
-    
-+ GUI Design/Development
+[PHP] Developed GUI framework using Zend Model View Controller architecture and
+OOP (Object Oriented Programming).
 
-    [PHP] Developed GUI framework using Zend Model View Controller
-    architecture and OOP (Object Oriented Programming).
+[Javascript/Dojo] Developed AJAX based GUI using Dojo and multiple Dojox
+widget.
 
-    [Javascript/Dojo] Developed AJAX based GUI using Dojo and multiple Dojox
-    widget.
+[HTML/CSS] Usage and understanding of HTML/CSS to work with the Dojo and
+solving multiple GUI issues.
 
-    [HTML/CSS] Usage and understanding of HTML/CSS to work with the Dojo and
-    solving multiple GUI issues.
+[C++] C++ based SOAP server.
 
-    [C++] C++ based SOAP server.
+## OAM/EMS
 
-+ OAM/EMS
+[EMS] Understanding of EMS framework and various aspects of  fault management,
+configuration management, accounting management, performance management and
+security management (FCAPS).
 
-    [EMS] Understanding of EMS framework and various aspects of  fault
-    management, configuration management, accounting management, performance
-    management and security management (FCAPS).
+[OAM] Developed GUI for different Managed Objects in the products.  Managed
+Object helped customer to conceptualize the product.
 
-    [OAM] Developed GUI for different Managed Objects in the products.  Managed
-    Object helped customer to conceptualize the product.
+## Security
 
-+ Security
+[SOAP] Developed C++/GSOAP based secure SOAP server and PHP based secure SOAP
+client using WSSE standards. 
 
-    [SOAP] Developed C++/GSOAP based secure SOAP server and PHP based secure SOAP
-    client using WSSE standards. 
+[PHP] Developed PHP based user session management (authentication and
+authorization).  Wrote code to avoid SQL injection attacks.
 
-    [PHP] Developed PHP based user session management (authentication and
-    authorization).  Wrote code to avoid SQL injection attacks.
+## Performance Optimization
 
-+ Performance Optimization
+[MySQL] Optimized MySQL queries in the project.  Understanding of MySQL tools
+on how to debug and fix bad queries.
 
-    [MySQL] Optimized MySQL queries in the project.  Understanding of MySQL
-    tools on how to debug and fix bad queries.
+[PHP] Optimized PHP/Zend code using PHP Xdebug and other debugging techniques.
 
-    [PHP] Optimized PHP/Zend code using PHP Xdebug and other debugging
-    techniques.
+## Automation
 
-+ Automation
+[Python] Developed automated test suite for network based application.
 
-    [Python] Developed automated test suite for network based application.
+[PHP] Automated Unit Test using PHPUnit. Code coverage utilities and various
+other reports.
 
-    [PHP] Automated Unit Test using PHPUnit. Code coverage utilities and
-    various other reports.
-    
-    [Ansible] Ansible scripts to manage 700+ servers created using Open Nebula
-    and KVM.
+[Ansible] Ansible scripts to manage 700+ servers created using Open Nebula and
+KVM.
 
---------------------------------------------------------------------------------
+# Experience Summary
 
-[EXPERIENCE SUMMARY]
+## Jan, 2010 - present: Aricent, Gurgaon/USA
 
-Jan, 2010 - present: Aricent, Gurgaon/USA
-    Unix based PHP and Telecom OAM development for a new product.  Developed
-    GUI and Machine to Machine Interface for LTE/4G protocol project.
-    Implemented REST based Machine to Machine Interface. Worked on PHPUnit and
-    PHP CLI. Worked on Python based test cases automation. 
+Unix based PHP and Telecom OAM development for a new product.  Developed GUI
+and Machine to Machine Interface for LTE/4G protocol project.  Implemented REST
+based Machine to Machine Interface. Worked on PHPUnit and PHP CLI. Worked on
+Python based test cases automation. 
 
-Dec, 2005 - Dec, 2009: Aricent, Gurgaon/USA
-    Unix based PHP and C++ GUI/EMS framework.  Linux/Apache/MySQL/PHP (LAMP)
-    development with Zend/Dojo and C++ based SOAP server backend.
+## Dec, 2005 - Dec, 2009: Aricent, Gurgaon/USA
 
-Aug, 2003 - Dec, 2005: Infosys, Bangalore
-    Windows based C++ development.  Worked on database layers, web services,
-    ASP pages for a soft switch.  Solved challenging problem like memory leaks,
-    logging performance enhancement and real time customer issues.
+Unix based PHP and C++ GUI/EMS framework.  Linux/Apache/MySQL/PHP (LAMP)
+development with Zend/Dojo and C++ based SOAP server backend.
 
---------------------------------------------------------------------------------
+## Aug, 2003 - Dec, 2005: Infosys, Bangalore
 
-[EMPLOYEMENT SUMMARY]
+Windows based C++ development.  Worked on database layers, web services, ASP
+pages for a soft switch.  Solved challenging problem like memory leaks, logging
+performance enhancement and real time customer issues.
+
+# Employement Summary
 
 | Start Date | End Date  | Employer | Designation        | 
 |------------|-----------|----------|--------------------|
 | Dec, 2005  | Present   | Aricent  | Software Developer | 
 | Aug, 2003  | Dec, 2005 | Infosys  | Software Developer | 
 
---------------------------------------------------------------------------------
-
-[EDUCATION]
+# Education
 
 |Exam | Institute   | University                | Year of Passing | Marks (%) |
 |-----|-------------|---------------------------|-----------------|-----------|
 |B.E  | A.E.C, Agra | Dr.B.R.A University, Agra | 2003            | 80        |
 |XII  | Dr.V.S.E.C  | U.P. Board                | 1998            | 73        |
 |X    | Dr.V.S.E.C  | U.P. Board                | 1996            | 70        |
-
---------------------------------------------------------------------------------
-
-[PERSONAL DETAILS]
-
-Date of birth : 18 Jan 1981    
-Marital Status: Married        
-Languages     : English, Hindi 
-Passport #    : Z2796975       
-
---------------------------------------------------------------------------------
