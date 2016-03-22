@@ -1,8 +1,7 @@
                                    Jay Rajput
                        jayrajput@gmail.com (919-289-9529)
---------------------------------------------------------------------------------
 
-[SUMMARY]
+# Summary
 
 PHP/C++ GUI developer and Telecom OAM/EMS engineer.  Expert in PHP and C++.
 Comfortable with HTML/CSS, Javascript/Dojo, Zend, Linux, Shell Scripting, SOAP,
@@ -13,9 +12,7 @@ automation, OAM and programming.  Total experience of 12+ years.
 Keywords: C/C++, Python, PHP, Perl, bash, MySQL, Linux, open source, HTML,
 Javascript, CSS, Zend/Dojo, git, MVC, Laravel
 
---------------------------------------------------------------------------------
-
-[SKILLS]
+# Skills
 
 + MMI/Web Services
 
