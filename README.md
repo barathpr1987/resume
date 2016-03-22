@@ -17,8 +17,7 @@ Javascript, CSS, Zend/Dojo, git, MVC, Laravel
 
 ### MMI/Web Services
 
-[REST] Developed REST based architecture to support Machine to Machine
-Interface (MMI)
+[REST] Developed REST based Machine to Machine Interface (MMI)
 
 [SOAP] Developed C++/GSOAP based secure SOAP server.
 
