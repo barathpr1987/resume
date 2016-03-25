@@ -17,8 +17,7 @@ Javascript, CSS, Zend/Dojo, git, MVC, Laravel
 
 ### MMI/Web Services
 
-[REST] Developed REST based architecture to support Machine to Machine
-Interface (MMI)
+[REST] Developed REST based Machine to Machine Interface (MMI)
 
 [SOAP] Developed C++/GSOAP based secure SOAP server.
 
@@ -74,19 +73,19 @@ KVM.
 
 ## Experience Summary
 
-### Jan, 2010 - present: Aricent, Gurgaon/USA
+### 2010 - present: Aricent, Gurgaon/USA
 
 Unix based PHP and Telecom OAM development for a new product.  Developed GUI
 and Machine to Machine Interface for LTE/4G protocol project.  Implemented REST
 based Machine to Machine Interface. Worked on PHPUnit and PHP CLI. Worked on
 Python based test cases automation. 
 
-### Dec, 2005 - Dec, 2009: Aricent, Gurgaon/USA
+### 2006 - 2009: Aricent, Gurgaon/USA
 
 Unix based PHP and C++ GUI/EMS framework.  Linux/Apache/MySQL/PHP (LAMP)
 development with Zend/Dojo and C++ based SOAP server backend.
 
-### Aug, 2003 - Dec, 2005: Infosys, Bangalore
+### 2003 - 2005: Infosys, Bangalore
 
 Windows based C++ development.  Worked on database layers, web services, ASP
 pages for a soft switch.  Solved challenging problem like memory leaks, logging
