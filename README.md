@@ -1,4 +1,4 @@
-# [Jay Rajput](https://github.com/jayrajput/resume)
+# Jay Rajput
 
 jayrajput@gmail.com (919-289-9529)
 
