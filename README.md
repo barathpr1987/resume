@@ -1,6 +1,6 @@
 # Jay Rajput
 
-jayrajput@gmail.com (919-289-9529)
+jayrajput@gmail.com (+91-8971223003)
 
 ## Summary
 
