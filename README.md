@@ -73,7 +73,11 @@ KVM.
 
 ## Experience Summary
 
-### 2010 - present: Aricent, Gurgaon/USA
+### 2016 - ongoing : Oracle, Bangalore
+
+Description - TBD
+
+### 2010 - 2016 : Aricent, Gurgaon/USA
 
 Unix based PHP and Telecom OAM development for a new product.  Developed GUI
 and Machine to Machine Interface for LTE/4G protocol project.  Implemented REST
@@ -95,7 +99,8 @@ performance enhancement and real time customer issues.
 
 | Start Date | End Date  | Employer | Designation        | 
 |------------|-----------|----------|--------------------|
-| Dec, 2005  | Present   | Aricent  | Software Developer | 
+| Dec, 2016  | Present   | Oracle   | Software Developer |
+| Dec, 2005  | Dec, 2016 | Aricent  | Software Developer | 
 | Aug, 2003  | Dec, 2005 | Infosys  | Software Developer | 
 
 ## Education
